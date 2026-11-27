@@ -21,12 +21,13 @@
 
 ---
 
-## 📚 Product Presentation & User Guide
+## 📚 Product Documentation & Business Strategy
 
-| Document / Документ / Hujjat | Languages | PDF |
-|---|---|---|
-| 🚀 Premium Product Presentation | EN / RU / UZ | [Open PDF](DailyTick_12_Slides_GitHub.pdf) |
-| 📖 Complete User Manual | EN / RU / UZ | [Open PDF](DailyTick_User_Manual_3_Languages.pdf) |
+| Document / Документ / Hujjat | Pages | Languages | PDF |
+|---|---:|:---:|---|
+| 🚀 Premium Product Presentation | 12 | EN / RU / UZ | [Open PDF](DailyTick_12_Slides_GitHub.pdf) |
+| 📖 Complete User Manual | 30 | EN / RU / UZ | [Open PDF](DailyTick_User_Manual_3_Languages.pdf) |
+| 📈 Global Growth & Business Strategy | 15 | EN / RU / UZ | [Open PDF](DailyTick_Global_Growth_Business_Strategy.pdf) |
 
 **Explore the product, discover its potential and learn how to use DailyTick.**
 
