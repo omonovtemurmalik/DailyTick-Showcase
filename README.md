@@ -45,6 +45,22 @@ and a comprehensive business growth strategy.
 
 ---
 
+## 🎮 Try DailyTick Interactive Demo
+
+[![Launch Interactive Demo](https://img.shields.io/badge/LAUNCH-INTERACTIVE_DEMO-16865D?style=for-the-badge&logo=android&logoColor=white)](https://omonovtemurmalik.github.io/DailyTick-Showcase/)
+
+- No installation required
+- Interactive browser preview
+- English, Russian and Uzbek
+- 4 appearance modes
+- Full functionality available in the Android application
+
+Откройте интерактивную демоверсию прямо в браузере.
+
+Interaktiv demo versiyasini brauzer orqali sinab ko‘ring.
+
+---
+
 ## 📌 Current Product Status
 
 - Functional pre-launch Android application
@@ -53,7 +69,8 @@ and a comprehensive business growth strategy.
 - Pre-revenue
 - Final commercial release verification pending
 - Google Play publication is a future step
-- Protected public demo is planned
+- Interactive browser demo is available online
+- Protected public Android APK release is pending
 
 ---
 
