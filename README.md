@@ -21,6 +21,30 @@
 
 ---
 
+## 💎 Available for Full Acquisition
+
+**Acquire the product. Build the business. Own the future.**
+
+A functional multilingual Android application with source code,
+transferable brand assets, marketing materials, user documentation
+and a comprehensive business growth strategy.
+
+- 100% project acquisition
+- One-time payment
+- Independent future development
+- Price on request
+
+**Полная продажа проекта с исходным кодом и активами бренда.**
+
+**Loyiha manba kodi va brend aktivlari bilan to‘liq sotuvga taklif etiladi.**
+
+### 📩 Contact Us / Связаться / Bog‘lanish
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omonovtemurmalik@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dailytickdemo)
+
+---
+
 ## 📚 Product Documentation & Business Strategy
 
 | Document / Документ / Hujjat | Pages | Languages | PDF |
