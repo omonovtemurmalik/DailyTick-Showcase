@@ -61,6 +61,18 @@ Ilova imkoniyatlari, foydalanish tartibi va rivojlanish istiqbollari bilan tanis
 
 ---
 
+> **Note:** The premium presentation includes illustrative UI concepts.
+> Actual earlier Demo screenshots are provided in the screenshot gallery.
+> Phone testing refers to an earlier Demo build.
+
+> **Примечание:** Презентация содержит концептуальные изображения интерфейса.
+> Реальные экраны ранней Demo-версии представлены в галерее.
+> Результаты тестирования относятся к ранней Demo-версии.
+
+> **Izoh:** Premium taqdimotda interfeysning konseptual tasvirlari ham mavjud.
+> Avvalgi Demo versiyasining haqiqiy ekranlari galereyada keltirilgan.
+> Sinov natijalari avvalgi Demo versiyasiga tegishli.
+
 ## 🎬 Promotional Videos
 
 | 🇬🇧 English | 🇷🇺 Русский | 🇺🇿 O‘zbekcha |
