@@ -21,6 +21,21 @@
 
 ---
 
+## 📚 Product Presentation & User Guide
+
+| Document / Документ / Hujjat | Languages | PDF |
+|---|---|---|
+| 🚀 Premium Product Presentation | EN / RU / UZ | [Open PDF](DailyTick_12_Slides_GitHub.pdf) |
+| 📖 Complete User Manual | EN / RU / UZ | [Open PDF](DailyTick_User_Manual_3_Languages.pdf) |
+
+**Explore the product, discover its potential and learn how to use DailyTick.**
+
+Изучите продукт, его возможности и перспективы развития.
+
+Ilova imkoniyatlari, foydalanish tartibi va rivojlanish istiqbollari bilan tanishing.
+
+---
+
 ## 🇬🇧 English
 
 ### 🚀 Plan your day. Build habits. Achieve your goals.
