@@ -45,6 +45,18 @@ and a comprehensive business growth strategy.
 
 ---
 
+## 📌 Current Product Status
+
+- Functional pre-launch Android application
+- Earlier demo tested on a physical Android device
+- Production and demo source code available
+- Pre-revenue
+- Final commercial release verification pending
+- Google Play publication is a future step
+- Protected public demo is planned
+
+---
+
 ## 📚 Product Documentation & Business Strategy
 
 | Document / Документ / Hujjat | Pages | Languages | PDF |
