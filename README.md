@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="DailyTick-wordmark.png" width="280" alt="DailyTick">
+</p>
 
+<p align="center">
+  <img src="hero-en.png" width="100%" alt="DailyTick English">
+</p>
+
+---
 # ✅ DailyTick
 
 ### One App. Endless Possibilities.
@@ -66,8 +74,10 @@ The entire project is offered for a one-time acquisition, including source code,
 ---
 
 ## 🇷🇺 Русский
-
-### 🚀 Планируйте день. Формируйте привычки. Достигайте целей.
+<p align="center">
+  <img src="hero-ru.png" width="100%" alt="DailyTick Russian">
+</p> 
+<h3>🚀 Планируйте день. Формируйте привычки. Достигайте целей.</h3>
 
 DailyTick — универсальное Android-приложение для организации повседневной жизни, управления задачами, формирования полезных привычек и достижения личных целей.
 
@@ -118,8 +128,10 @@ DailyTick — универсальное Android-приложение для о�
 ---
 
 ## 🇺🇿 O‘zbekcha
-
-### 🚀 Kuningizni rejalashtiring. Odatlaringizni shakllantiring. Maqsadlaringizga erishing.
+<p align="center">
+  <img src="hero-uz.png" width="100%" alt="DailyTick Uzbek">
+</p> 
+<h3>🚀 Kuningizni rejalashtiring. Odatlaringizni shakllantiring. Maqsadlaringizga erishing.</h3>
 
 DailyTick — kundalik hayotni tartibga solish, vazifalarni boshqarish, foydali odatlarni shakllantirish va shaxsiy maqsadlarga erishish uchun universal Android ilovasi.
 
