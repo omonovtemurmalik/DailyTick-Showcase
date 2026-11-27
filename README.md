@@ -36,6 +36,42 @@ Ilova imkoniyatlari, foydalanish tartibi va rivojlanish istiqbollari bilan tanis
 
 ---
 
+## 📱 Real App Screenshots
+
+Actual earlier Demo screens with sample data.
+
+### 🇬🇧 English
+
+| Today | My Lists | Calendar | Statistics |
+|:---:|:---:|:---:|:---:|
+| <img src="en-today.jpg" width="180"> | <img src="en-lists.jpg" width="180"> | <img src="en-calendar.jpg" width="180"> | <img src="en-statistics.jpg" width="180"> |
+
+| Recommended Tasks | Quiz | Languages |
+|:---:|:---:|:---:|
+| <img src="en-recommended-tasks.jpg" width="180"> | <img src="en-quiz.jpg" width="180"> | <img src="en-languages.jpg" width="180"> |
+
+### 🇷🇺 Русский
+
+| Сегодня | Списки | Календарь | Статистика |
+|:---:|:---:|:---:|:---:|
+| <img src="ru-today.jpg" width="180"> | <img src="ru-lists.jpg" width="180"> | <img src="ru-calendar.jpg" width="180"> | <img src="ru-statistics.jpg" width="180"> |
+
+| Рекомендуемые задачи | Викторина | Языки |
+|:---:|:---:|:---:|
+| <img src="ru-recommended-tasks.jpg" width="180"> | <img src="ru-quiz.jpg" width="180"> | <img src="ru-languages.jpg" width="180"> |
+
+### 🇺🇿 O‘zbekcha
+
+| Bugun | Ro‘yxatlar | Taqvim | Maqsadlar |
+|:---:|:---:|:---:|:---:|
+| <img src="uz-today.jpg" width="180"> | <img src="uz-lists.jpg" width="180"> | <img src="uz-calendar.jpg" width="180"> | <img src="uz-goals.jpg" width="180"> |
+
+| Statistika | Viktorina | Tillar |
+|:---:|:---:|:---:|
+| <img src="uz-statistics.jpg" width="180"> | <img src="uz-quiz.jpg" width="180"> | <img src="uz-languages.jpg" width="180"> |
+
+---
+
 ## 🇬🇧 English
 
 ### 🚀 Plan your day. Build habits. Achieve your goals.
