@@ -36,6 +36,17 @@ Ilova imkoniyatlari, foydalanish tartibi va rivojlanish istiqbollari bilan tanis
 
 ---
 
+## 🎬 Promotional Videos
+
+| 🇬🇧 English | 🇷🇺 Русский | 🇺🇿 O‘zbekcha |
+|:---:|:---:|:---:|
+| ![English](hero-en.png) | ![Russian](hero-ru.png) | ![Uzbek](hero-uz.png) |
+| [▶ Watch video](./promo-en.mp4?raw=true) | [▶ Смотреть видео](./promo-ru.mp4?raw=true) | [▶ Videoni ko‘rish](./promo-uz.mp4?raw=true) |
+
+Promotional slideshows based on actual Demo screenshots.
+
+---
+
 ## 📱 Real App Screenshots
 
 Actual earlier Demo screens with sample data.
